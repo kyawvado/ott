@@ -577,7 +577,7 @@ https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 #KODIPROP:inputstream.adaptive.license_key=0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
 https://linear031-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
 
-#EXTINF:-1 group-title="SKY SPORTS⭐" tvg-logo="https://images.ctfassets.net/upygmu80yh8z/6DMQrNF5ueNhDJ16BgNw8W/4caab4d2d851b9730c412206d64bf093/1506-skysports.jpg", Sky Sports 24 (Mexico)
+#EXTINF:-1 group-title="SKY SPORTS⭐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Sky_Sports_MX.svg/revision/latest/scale-to-width-down/200?cb=20231120131428", Sky Sports 24 (Mexico)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
