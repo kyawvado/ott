@@ -275,12 +275,12 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 group-title="USA SPORTS⭐" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", Peacock NBC Sport
+#EXTINF:-1 group-title="USA SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF9_7CFkq1dzvorLWZ0N9gTJhkS2oCJdOOsg&usqp=CAU", Peacock NBC Sport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 group-title="USA SPORTS⭐" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Peacock EPL Review
+#EXTINF:-1 group-title="USA SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw4axc6tJb4ajzL-SwWeWoSM5qAi7bFfGyog&usqp=CAU", Peacock EPL Review
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -294,7 +294,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
-#EXTINF:-1 group-title="USA SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PYp3u-s23FreWp0wAmYj-ErdEYv4vtlcXg&s", Telemundo (East)
+#EXTINF:-1 group-title="USA SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOH_Y4cveuiHKoNBk5JHftzup8QvUrjczuOA&usqp=CAU", Telemundo (East)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1f756cffcc838e28a3da6541c00ee8b:1444b1c17a5c1f78435de12dcff47c8e
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd
@@ -668,14 +668,14 @@ https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-504/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-501/stream.mpd
 
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd0wM6JR0pcPTCKb9A3v6Tx1sSovhDSFWFYg&usqp=CAU", DAZN Golf
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=knfyslpbcpii1ls6axjvzh5gr_image-header_pRow_1710946640000&quality=70", DAZN Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-505/stream.mpd
 
-#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://insidegolf.ca/images/18.01.27-PGATour-DAZN.jpg", DAZN PGA Tour
+#EXTINF:-1 group-title="DAZN SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSXy6qIdDFwKaOs2g6ETfdQQvZhsF7sCbueA&usqp=CAU", DAZN PGA Tour
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 #EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
@@ -774,7 +774,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 
 
-#EXTINF:-1 group-title="BEIN SPORTS⭐" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png", Astro beIN Sports 1 (a)
+#EXTINF:-1 group-title="BEIN SPORTS⭐" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Astro beIN Sports 1 (a)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -782,7 +782,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
-#EXTINF:-1 group-title="BEIN SPORTS⭐" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", Astro beIN Sports 2 (a)
+#EXTINF:-1 group-title="BEIN SPORTS⭐" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Astro beIN Sports 2 (a)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -790,7 +790,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
-#EXTINF:-1 group-title="BEIN SPORTS⭐" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png", Astro beIN Sports 3 (a)
+#EXTINF:-1 group-title="BEIN SPORTS⭐" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp", Astro beIN Sports 3 (a)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -798,7 +798,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1 group-title="BEIN SPORTS⭐" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BEIN4.png", Astro beIN Sports 4 (a)
+#EXTINF:-1 group-title="BEIN SPORTS⭐" tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp", Astro beIN Sports 4 (a)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -929,13 +929,13 @@ https://lb2-e2-21.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
 
 
 
-#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/BBC_One_logo_(box_variant).svg/2560px-BBC_One_logo_(box_variant).svg.png", BBC One - Vpn UK
+#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://i.ibb.co/PDbMv76/bbcone.png", BBC One - Vpn UK
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/BBC_Two_logo.png", BBC Two - Vpn UK
+#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://i.ibb.co/mJ9bXnS/bbc2.png", BBC Two - Vpn UK
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/BBC_Three_(television_channel)_2008_logo.svg/1280px-BBC_Three_(television_channel)_2008_logo.svg.png", BBC Three - Vpn UK
+#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://i.ibb.co/8j9pdy4/bbc3.png", BBC Three - Vpn UK
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HO6zwy5eRVcwshcbv4-UJQB-bNylaV-tYQ&s", BBC Four - Vpn UK
+#EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://i.ibb.co/3phgHFg/bbc4.png", BBC Four - Vpn UK
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 group-title="BBC SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB+_Primary_ONE_COLOUR2.svg/1280px-BBC_RB+_Primary_ONE_COLOUR2.svg.png", BBC Red Button One - Vpn UK
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
@@ -1016,14 +1016,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0OeU48/1ZO0scgoJjrF3xw", "kid":"TbI6Qbq/6a/CIqWMWYKDEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default.mpd
-
-#EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Ziggo_Sport_Logo.jpg/640px-Ziggo_Sport_Logo.jpg", Ziggo Sport Golf
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "kid": "u0t47zl2RuOuXxO9sj1W7Q", "k": "wSR6lCxxJkQ6kyFMZ0Mf6A"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd
 
 #EXTINF:-1 group-title="OTHER SPORTS⭐" tvg-logo="https://iili.io/1NzaSV.png", Golf Channel Astro
 #KODIPROP:inputstreamaddon=inputstream.adaptive
