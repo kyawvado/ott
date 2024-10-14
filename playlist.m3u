@@ -354,7 +354,19 @@ https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
 https://linear311-it-dash1-prd.selector.skycdn.it/31613/skysport259/master.mpd
-#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sports Main Event (UK) - Vpn UK
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sports Premier League (UK) - Vpn UK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00058832b1c058c3de8b5d118cc775d4:721345f25729d236d6bb317fce797b77
+https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportspremierleague)/manifest_720.mpd
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sports Main Event (UK) A - Vpn UK
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=000546476256963bd054ded3b6ae5800:1e497068bcc078fdb2f4296bc400ca2b
+https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd
+#EXTINF:-1 group-title="SKY SPORTS" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-0-1.png", Sky Sports Main Event (UK) B - Vpn UK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
